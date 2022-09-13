@@ -1,0 +1,8 @@
+POST http://localhost:3005/
+Content-Type: application/application/json
+
+{
+            "title": "special cotton shirt for men",
+            "price": 15,
+            
+}
